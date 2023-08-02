@@ -1,0 +1,5 @@
+fastapi==0.99.0
+uvicorn==0.22.0
+pydantic==1.10.10
+farm-haystack[inference]==1.18.1
+elasticsearch==7.17.9
