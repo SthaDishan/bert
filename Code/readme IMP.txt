@@ -7,3 +7,7 @@ or compile the model in google collab and donwload the .h5 model (around 1 gb fi
 and paste it in
 
 Code\chat-api\bert-model
+
+
+
+Also download elasticsearch and run elasticsearch.bat which is in bin folder as administrator
